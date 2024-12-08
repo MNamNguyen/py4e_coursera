@@ -1,5 +1,5 @@
--->> Opening RAW files helps us easily see the content. <<--
-
+-->> Opening RAW files helps us easily see the content. <<--                       ^
+                                                                                   |                     
 Musical Track Database
 This application will read an iTunes export file in CSV format and produce a properly normalized database with this structure:
 
@@ -41,4 +41,4 @@ The expected result of the modified query on your database is: (shown here as a 
 Track	                                      Artist	        Album	        Genre
 Chase the Ace	                              AC/DC        	Who Made Who	  Rock
 D.T.	                                      AC/DC	        Who Made Who	  Rock
-For Those About To Rock (We Salute You)	    AC/DC	        Who Made Who	  Rock
+For Those About To Rock (We Salute You)	      AC/DC	        Who Made Who	  Rock
