@@ -1,3 +1,5 @@
+-->> Opening RAW files helps us easily see the content. <<--
+
 Musical Track Database
 This application will read an iTunes export file in CSV format and produce a properly normalized database with this structure:
 
